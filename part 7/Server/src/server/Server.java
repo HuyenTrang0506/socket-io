@@ -201,6 +201,7 @@ public class Server extends javax.swing.JFrame {
                     }
                 }
             });
+            //lay kich thuoc file
             server.addEventListener("r_f_l", Integer.class, new DataListener<Integer>() {
                 @Override
                 public void onData(SocketIOClient sioc, Integer t, AckRequest ar) throws Exception {
@@ -214,6 +215,7 @@ public class Server extends javax.swing.JFrame {
                     }
                 }
             });
+            //lay list file
             server.addEventListener("request", String.class, new DataListener<String>() {
                 @Override
                 public void onData(SocketIOClient sioc, String t, AckRequest ar) throws Exception {
@@ -222,6 +224,7 @@ public class Server extends javax.swing.JFrame {
                     }
                 }
             });
+            //yeu cau tai xuong file
             server.addEventListener("request_file", DataRequestFile.class, new DataListener<DataRequestFile>() {
                 @Override
                 public void onData(SocketIOClient sioc, DataRequestFile t, AckRequest ar) throws Exception {

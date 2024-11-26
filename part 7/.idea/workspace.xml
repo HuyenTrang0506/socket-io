@@ -5,30 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed09a670-fa7a-4c90-affb-1212a03a2fe5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/part 7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/Client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Server/Server.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Server/lib/slf4j-simple-1.7.21.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Client/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Client/nbproject/build-impl.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Client/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Client/nbproject/genfiles.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Client/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Client/nbproject/project.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Client/nbproject/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Client/nbproject/project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Server/nbproject/build-impl.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Server/nbproject/genfiles.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Server/nbproject/project.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server/nbproject/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Server/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/MigLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/miglayout-core-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/miglayout-core-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/miglayout-core.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/miglayout-swing-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/miglayout-swing-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/miglayout-swing.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/Client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Client/Client.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Client/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/src/client/Main_Client.form" beforeDir="false" afterPath="$PROJECT_DIR$/Client/src/client/Main_Client.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/src/client/Main_Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/Client/src/client/Main_Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Server/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/src/server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/Server/src/server/Server.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -44,43 +46,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Main_Client.executor": "Run",
-    "Application.Server.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "UI_DESIGNER_EDITOR_MODE.PaletteManager.STATE": "left",
-    "UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH": "225",
-    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.STATE": "right",
-    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "235",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Project/voting",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Main_Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Server.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.PaletteManager.STATE&quot;: &quot;left&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH&quot;: &quot;85&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.STATE&quot;: &quot;right&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH&quot;: &quot;259&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Project/socket-io/part 7&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.file-colors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Project\socket-io\part 7\Server\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main_Client">
+  <component name="RunManager" selected="Application.Server">
     <configuration name="Main_Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="client.Main_Client" />
       <module name="Client" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="client.*" />
+          <option name="PATTERN" value="client.Main_Client" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,16 +109,16 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main_Client" />
         <item itemvalue="Application.Server" />
+        <item itemvalue="Application.Main_Client" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.19072.14" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.19072.14" />
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
       </set>
     </attachedChunks>
   </component>
@@ -129,6 +135,19 @@
       <workItem from="1727234430843" duration="2705000" />
       <workItem from="1727240617013" duration="20000" />
       <workItem from="1728058780302" duration="35000" />
+      <workItem from="1730572036653" duration="2530000" />
+      <workItem from="1730613505237" duration="4683000" />
+      <workItem from="1730861904899" duration="63000" />
+      <workItem from="1731460971830" duration="746000" />
+      <workItem from="1731940925888" duration="606000" />
+      <workItem from="1731946984349" duration="87000" />
+      <workItem from="1731994449689" duration="754000" />
+      <workItem from="1731997224554" duration="597000" />
+      <workItem from="1732021789994" duration="3298000" />
+      <workItem from="1732087545098" duration="1771000" />
+      <workItem from="1732197328313" duration="1726000" />
+      <workItem from="1732202424249" duration="1221000" />
+      <workItem from="1732623773612" duration="16265000" />
     </task>
     <servers />
   </component>
@@ -175,5 +194,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
